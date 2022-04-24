@@ -1,5 +1,7 @@
 package br.com.trabalhojava.exerciciocasa;
-
+/**
+ * @author Jonathan Lauro mendes de Souza - 202001509194 & Gabriel Ferreira Gomes 202002199369
+ */
 public class Janela {
     private String dimensao;
     private String material;

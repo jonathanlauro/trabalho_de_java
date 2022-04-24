@@ -1,5 +1,7 @@
 package br.com.trabalhojava.contabancaria;
-
+/**
+ * @author Jonathan Lauro mendes de Souza - 202001509194 & Gabriel Ferreira Gomes 202002199369
+ */
 public class TesteContaBancaria {
     public static void main(String[] args) throws Exception {
         ContaBancaria cb = new ContaBancaria();

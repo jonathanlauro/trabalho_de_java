@@ -1,9 +1,14 @@
 package br.com.trabalhojava.contabancaria;
 
+import java.lang.annotation.Documented;
 import java.util.Date;
 
 import static br.com.trabalhojava.contabancaria.utils.ConversorDeData.converterDateToStrig;
 import static br.com.trabalhojava.contabancaria.utils.ConversorDeMoeda.converterDoubleToMoeda;
+
+/**
+ * @author Jonathan Lauro mendes de Souza - 202001509194 & Gabriel Ferreira Gomes 202002199369
+ */
 
 public class ContaBancaria {
     private double saldo;
